@@ -1,0 +1,48 @@
+.container {
+	width: 100%;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 1em;
+}
+
+h3 {
+	font-size: 1em;
+}
+
+p {
+	font-size: .75em;
+}
+
+.header_social {
+	font-size: 2em;
+}
+.spacer {
+	width: 2%;
+}
+
+.small_project {
+	width: 49%;
+}
+
+figcaption {
+	width: 49%;
+}
+
+.left_footer {
+	width: 100%;
+	margin: 0;
+	padding: 5px 0 0 5px;
+	text-align: center;
+}
+
+.right_footer {
+	width: 100%;
+	margin: 0;
+	padding: 0 0 0 5px;
+	text-align: center;
+}

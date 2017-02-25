@@ -20,6 +20,7 @@ body {
 
 a {
 	color: white;
+	text-decoration: none;
 }
 
 p {
@@ -90,10 +91,26 @@ figcaption {
 	color: white;
 }
 
+figcaption h2 {
+	font-family: 'Quicksand', sans-serif;
+	margin: 0;
+	padding: 6px 0 0 6px;
+}
+
 figcaption p {
 	font-family: 'Quicksand', sans-serif;
 	margin: 0;
-	padding: 4px;
+	padding: 6px;
+}
+
+.about_me {
+	width: 100%;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1.5em;
+	margin: 0;
+	padding: 0;
+	color: gray;
+	background-color: white;
 }
 
 footer {
@@ -118,4 +135,5 @@ footer {
 	padding: 20px;
 	font-size: 3em;
 	margin: auto;
+	color: #CDBA81;
 }

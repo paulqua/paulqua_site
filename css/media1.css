@@ -3,13 +3,29 @@
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 3.5em;
 }
 
 h3 {
-	font-size: .90em;
+	font-size: 1.25em;
 }
 
 p {
 	font-size: .75em;
+}
+
+.header_social {
+	font-size: 2.5em;
+}
+
+.left_footer {
+	width: 100%;
+	margin: 0;
+	padding: 5px 0 0 5px;
+}
+
+.right_footer {
+	width: 100%;
+	margin: 0;
+	padding: 0 0 0 5px;
 }
